@@ -1,13 +1,13 @@
 ## Updated-portfolio
  
  # 
- This is an Updated Portipholio ,using  HTML,CSS,Bootstrap
+ This is an Updated Portpholio ,using  HTML,CSS,Bootstrap
 
 
 ## User Story
 ```
 AS A user 
-I WANT to see an Updated Portipholio with updated links
+I WANT to see an Updated Portpholio with updated links
 ```
 
 
@@ -28,6 +28,8 @@ LinkedIn [link](https://www.linkedin.com/in/shaima-jobran-323472172/)
 GitHub [link](https://github.com/shaimajobran)
 
 Resume [link](https://drive.google.com/file/d/1plENLk8WV5U-XOaVKhWlF93-9qAd7Ro5/view?usp=sharing)
+
+Portpholio  [link](https://shaimajobran.github.io/Updated-portfolio/)
 
 ## screenshot
 ![screenshot](assets/images/Screenshot-2021-04-17-153252.jpg)
